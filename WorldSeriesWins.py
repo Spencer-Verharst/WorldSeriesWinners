@@ -142,9 +142,7 @@ Kansas City Royals:
 Minnesota Twins:
 [1987, 1991]
 Toronto Blue Jays:
-[1992, 1993]
-Atlanta Braves:
-[1995]
+[1992, 1993, 2003]
 Florida Marlins:
 [1997, 2003]
 Arizona Diamondbacks:
@@ -158,3 +156,4 @@ Anaheim Angels:
 5. Quit
 Please choose an option: 5
 Goodbye!'''
+
